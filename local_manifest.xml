@@ -18,7 +18,7 @@
 
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
-  <project path="hardware/samsung_slsi-cm/exynos5410" name="exynos5410/android_hardware_samsung_slsi-cm_exynos5410" />
+  <project path="hardware/samsung_slsi-cm/exynos5410" name="kongacute/android_hardware_samsung_slsi-cm_exynos5410" />
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" />
 
 </manifest>
